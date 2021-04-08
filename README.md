@@ -2,9 +2,9 @@
 
 ## Пример
 
-Пример доступен по адресу [https://tic-tac-toe-js-9e04f.web.app/](https://tic-tac-toe-js-9e04f.web.app/)
+Пример доступен по адресу [https://keyboard-3a550.web.app/](https://keyboard-3a550.web.app/)
 
-## Available Scripts
+## Запуск
 
 Вы можете запустить проект
 
