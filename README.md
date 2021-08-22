@@ -2,7 +2,7 @@
 
 ## Пример
 
-Пример доступен по адресу [https://keyboard-3a550.web.app/](https://keyboard-3a550.web.app/)
+Пример доступен по адресу [https://keyboard.nikitabashdev.ru/](https://keyboard.nikitabashdev.ru/)
 
 ## Запуск
 
